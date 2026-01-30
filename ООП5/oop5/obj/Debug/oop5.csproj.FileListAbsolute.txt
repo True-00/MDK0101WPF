@@ -1,0 +1,17 @@
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\bin\Debug\oop5.exe.config
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\bin\Debug\oop5.exe
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\bin\Debug\oop5.pdb
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.csproj.AssemblyReference.cache
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\Elements\UserControl1.g.cs
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\MainWindow.g.cs
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\App.g.cs
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5_MarkupCompile.cache
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5_MarkupCompile.lref
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\Elements\UserControl1.baml
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\MainWindow.baml
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.g.resources
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.Properties.Resources.resources
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.csproj.GenerateResource.cache
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.csproj.CoreCompileInputs.cache
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.exe
+C:\Users\Mas_PB\Desktop\MDK0101WPF\ООП5\oop5\obj\Debug\oop5.pdb
